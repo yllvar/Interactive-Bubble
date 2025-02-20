@@ -1,3 +1,5 @@
+<img width="600" alt="Screenshot 2025-02-20 at 16 34 41" src="https://github.com/user-attachments/assets/5c09ffdf-7ad5-4cbe-94cc-309e2b7b91cb" />
+
 # Interactive 3D Bubble Blob
 
 ### A Digital Playground for Interactive Organic Shapes
